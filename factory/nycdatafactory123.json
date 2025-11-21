@@ -1,0 +1,9 @@
+{
+	"name": "nycdatafactory123",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "59b6dae6-95a2-41ac-bd5c-7f928dd7deb4",
+		"tenantId": "f958e84a-92b8-439f-a62d-4f45996b6d07"
+	}
+}
